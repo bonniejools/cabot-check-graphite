@@ -1,12 +1,12 @@
 Cabot Graphite Check Plugin
 =====
 
-This is a plugin for running Graphite in Cabot.
+This is a plugin for checking Graphite metrics in Cabot.
 
 ## Installation
 cabot_check_graphite should come installed with cabot as default however if you need to install it manually, append
 
-    cabot_check_icmp
+    cabot-check-graphite
 
 to the variable
 
